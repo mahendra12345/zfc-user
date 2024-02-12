@@ -1,5 +1,5 @@
 {
-    "name": "zf-commons/zfc-user",
+    "name": "mahendra12345/zfc-user",
     "description": "A generic user registration and authentication module for ZF2. Supports multiple adapters with built-in support for Laminas\\Db.",
     "type": "library",
     "license": "BSD-3-Clause",
